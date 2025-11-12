@@ -1,4 +1,4 @@
-<h1 align="center">Balatro</h1>
+<h1 align="center"><b>Balatro</b></h1>
 
 <p align="center">
   <img src="https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/images/Balatro.webp" width="250">
