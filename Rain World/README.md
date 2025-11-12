@@ -10,5 +10,4 @@ You are a slugcat. The world around you is full of danger, and you must face it 
 **Developer :** Videocult  
 **Publisher :** Adult Swim Games (initial), Akupara Games (current)  
 **Website :** [https://rainworldgame.com/](https://rainworldgame.com/)  
-**Platforms :** Nintendo Switch, PC (Microsoft Windows), PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S  
 **Expansions :** Downpour, The Watcher
