@@ -1,10 +1,17 @@
 # Balatro
 
-![Balatro](images/elden_ring_small.jpg)
+![Balatro](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/images/Balatro.webp)
 
-Balatro is a deck-building roguelite in which players construct poker hands to earn chips and overcome enemy blinds. The game features mechanics for enhancing a deck of playing cards, purchasing Jokers that modify hand effects, and discovering synergies to progress through increasingly challenging encounters.
+The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.
 
+**Genre :** Strategy, Turn-based strategy (TBS), Indie, Card & Board Game  
 
-**Genre:** Strategy, Turn-based strategy (TBS), Indie, Card & Board Game
+**Developers :** LocalThunk  
 
-**Platforms:** Android, iOS, Mac, Nintendo Switch, PC (Microsoft Windows), PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S
+**Publishers :** Playstack  
+
+**Game Modes :** Single-player  
+
+**Website :** [https://www.playbalatro.com/](https://www.playbalatro.com/)  
+
+**Platforms :** Android, iOS, Mac, Nintendo Switch, PC (Microsoft Windows), PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S  
