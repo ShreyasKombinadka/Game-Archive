@@ -1,16 +1,14 @@
 <h1 align="center">Rain World</h1>
 
 <p align="center">
-  <img src="https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Rain World/images/Rain World.webp" width="250">
+  <img src="https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Rain%20World/images/Rain%20World.webp" width="250">
 </p>
 
-A survival-platformer where you play as a “slugcat” caught in a brutal cycle of predation and hibernation in a desolate industrial ecosystem. :contentReference[oaicite:0]{index=0}
+You are a slugcat. The world around you is full of danger, and you must face it alone. Separated from your family in a devastating flood, you must hunt for food and shelter between terrifying torrential downpours that threaten to drown all life. Climb through the ruins of an ancient civilization, evade the jaws of vicious predators, and discover new lands teeming with strange creatures and buried mysteries. Find your family before death finds you!
 
-**Genre :** Platform, Survival  
-**Developer :** Videocult :contentReference[oaicite:1]{index=1}  
-**Publisher :** Adult Swim Games (initial) / Akupara Games (current) :contentReference[oaicite:2]{index=2}  
+**Genre :** Platform, Adventure, Indie  
+**Developer :** Videocult  
+**Publisher :** Adult Swim Games (initial), Akupara Games (current)  
 **Website :** [https://rainworldgame.com/](https://rainworldgame.com/)  
-**Platforms :** Microsoft Windows; PlayStation 4; Nintendo Switch; PlayStation 5; Xbox One; Xbox Series X/S :contentReference[oaicite:3]{index=3}  
-**Expansions :** 
-  - Downpour
-  - The Watcher
+**Platforms :** Nintendo Switch, PC (Microsoft Windows), PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S  
+**Expansions :** Downpour, The Watcher
