@@ -10,5 +10,4 @@ The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you 
 **Developer :** LocalThunk  
 **Publisher :** Playstack  
 **Website :** [https://www.playbalatro.com/](https://www.playbalatro.com/)  
-**Platforms :** Android, iOS, Mac, Nintendo Switch, PC (Windows), PS4, PS5, Xbox One, Xbox Series X/S  
 **Expansions :** N/A  
