@@ -7,6 +7,6 @@ A collection of only the best video games.
 ### **[Balatro](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/README.md)**  
 [![Balatro](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/images/Balatro_preview.webp)](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/README.md)  
 
-### **[Rain World](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Rain World/README.md)**  
-[![Balatro](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/images/Rain World_preview.webp)](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Rain-World/README.md)  
+### **[Rain World](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Rain_World/README.md)**  
+[![Balatro](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/images/Rain_World_preview.webp)](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Rain_World/README.md)  
 ---
