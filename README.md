@@ -4,8 +4,6 @@ A collection of only the best video games.
 
 ### Game List :
 
-### Game List
-
 [![Balatro](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/images/Balatro_preview.webp)](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/README.md)
 **[Balatro](https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/README.md)**
 
