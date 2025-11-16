@@ -1,7 +1,7 @@
 <h1 align="center">Balatro</h1>
 
 <p align="center">
-  <img src="https://github.com/ShreyasKombinadka/Game-Archive/blob/main/Balatro/images/Balatro.webp" width="250">
+  <img src="https://github.com/ShreyasKombinadka/Game-Archive/blob/main/doc/Balatro/Balatro.webp" width="250">
 </p>
 
 The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.
